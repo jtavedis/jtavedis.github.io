@@ -1,1 +1,0 @@
-# jtavedis.github.io
