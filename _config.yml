@@ -1,2 +1,5 @@
-name: My Site
-theme: minima
+title: Jeffrey Avedisian
+description: PhD Student
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-time-machine
